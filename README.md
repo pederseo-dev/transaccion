@@ -1,6 +1,5 @@
 ## clonar el repositorio
-git clone https://github.com/pederseo-dev/hackatoon
-
+git clone https://github.com/pederseo-dev/transaccion
 ## isntalador de pear
 npm i -g pear
 
